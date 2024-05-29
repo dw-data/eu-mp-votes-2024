@@ -8,7 +8,7 @@ the story that came out of this analysis.*
 
 Story by [Kira Schacht](https://www.twitter.com/daten_drang), [Bernd Riegert](https://www.dw.com/de/bernd-riegert/person-18388132)
 
-Read the full story on DW.com: [EN](https://www.dw.com/a-xxx) | [DE](https://www.dw.com/a-xxx)
+Read the full story on DW.com: [EN](https://www.dw.com/a-xxx) | [DE](https://www.dw.com/a-69197969)
 
 ## Datasets
 
@@ -16,7 +16,7 @@ The file `EU MP Votes Data Sheet.xlsx` contains the data and analysis results re
 
 ## Votes selection
 
-For this story, we looked at how the hard-right groups in the European parliament – Identity and Democracy (ID) and European Conservatives and Reformists (ECR) voted on major EU issues. 
+For this story, we looked at how the hard-right groups in the European parliament – Identity and Democracy (ID) and European Conservatives and Reformists (ECR) – voted on major EU issues in the current election period (2019-2024).
 We identified a dataset of 19 votes on four major topics:
 
 - **Enlargement and integration:** This reflects attitudes towards EU candidate countries and general EU collaboration.
